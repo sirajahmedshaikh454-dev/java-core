@@ -1,3 +1,4 @@
+package StartingJava;
 public class JavaVariablesAndDataTypes {
     public static void main(String[] args) {
         // Integers ---> byte 8,short 16,int 32,long 64
